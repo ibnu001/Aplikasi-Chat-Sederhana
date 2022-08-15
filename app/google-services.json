@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655768975616",
+    "firebase_url": "https://chat-application-b5b93-default-rtdb.firebaseio.com",
+    "project_id": "chat-application-b5b93",
+    "storage_bucket": "chat-application-b5b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655768975616:android:e3a56a7b0eb63fa0bf1be5",
+        "android_client_info": {
+          "package_name": "com.ibnu.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655768975616-88o1snht85jrh8n00vqmj1poaho6it5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH6FWU0bSIgsclwoAcyBhP2kuZkQZdNa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655768975616-88o1snht85jrh8n00vqmj1poaho6it5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
